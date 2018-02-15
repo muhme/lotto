@@ -13,6 +13,6 @@ cc -o lotto lotto.c
 ```
 ./lotto
  7 14 16 17 31 36
-
+```
 ## License
 This project is licensed under the MIT License.
